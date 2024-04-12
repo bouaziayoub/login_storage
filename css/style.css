@@ -34,7 +34,7 @@ form {
 
 .form-control {
   width: 100%;
-  margin-bottom: 20px;
+  margin-bottom: 8px;
   position: relative;
 }
 
@@ -77,4 +77,5 @@ button:hover {
 .errorPassword {
   color: red;
   margin-bottom: 10px;
+  
 }
